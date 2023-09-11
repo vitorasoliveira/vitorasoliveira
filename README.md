@@ -1,5 +1,5 @@
-- Hi, I’m @vitorasoliveira
-- I'm learning: Data structures, Algorithms, Java, C, C++, C#, Python, Javascript
+- Hi, I’m Vitor Alex
+- I'm studying Computer Science at Estácio University
 
 <!---
 vitorasoliveira/vitorasoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
