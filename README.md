@@ -1,5 +1,5 @@
 - Hi, I’m Vitor Alex
-- I'm a Computer Science student at Estácio University
+- Computer Science student at Estácio University
 
 <!---
 vitorasoliveira/vitorasoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
